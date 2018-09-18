@@ -9,3 +9,5 @@
 合并某分支到当前分支：git merge <name>
 
 删除分支：git branch -d <name>
+
+一个可以提高开发效率的Git命令-- Cherry-Pick
