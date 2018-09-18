@@ -1,4 +1,5 @@
 feature
+feature2
 查看分支：git branch
 
 创建分支：git branch <name>
