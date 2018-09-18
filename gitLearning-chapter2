@@ -1,4 +1,5 @@
 feature
+feature2
 查看分支：git branch
 
 创建分支：git branch <name>
@@ -11,5 +12,4 @@ feature
 
 删除分支：git branch -d <name>
 
-应该被强制删除了
-应该被强制删除了
+一个可以提高开发效率的Git命令-- Cherry-Pick
