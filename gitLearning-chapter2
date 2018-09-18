@@ -10,3 +10,6 @@ feature
 合并某分支到当前分支：git merge <name>
 
 删除分支：git branch -d <name>
+
+应该被强制删除了
+应该被强制删除了
